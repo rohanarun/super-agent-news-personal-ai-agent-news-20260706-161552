@@ -1,0 +1,57 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "Engadget",
+      "title": "Only These iPhone Models Are Getting The New Siri AI This Fall",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTHVxSXVsSU91U1FubllRMlpENVRzUGdBSTBsbkdybFhSUjVVSXRDams1MmlWelB1RU1RUmo5WFNrMnF4WmxBSTRzQUpKbmxqRjBtT3d6QnN6aTZBZG1mMGh4elphOFA5cG40eEJkd2gwZzRxQVE"
+    },
+    {
+      "source": "\u0622\u064a-\u0641\u0648\u0646 \u0625\u0633\u0644\u0627\u0645",
+      "title": "Elon Musk\u2019s AI \u2018Grok\u2019 Officially Arrives on iPhone CarPlay",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaURsZWl5cHZETElmRVBZams2dlpFNEZ4SjlWMm1BR1A4VktqZVVYS0ZVU01xRWQxengzQzNUV1diMlNIRlZPTGFIeHZjUzhIaUZtRWh1cTNTWmhsdWpIUVZob2x4aHB3UDRDUTVURUstY0NRdG96LXBudmNHWkVlTmhrWWI4S29rRkY0UGhzV1d0eFhoMGVaRUpQNUF2d1lLMkpvODJPOXNDQQ"
+    },
+    {
+      "source": "Google",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "CSO Online",
+      "title": "Operationalizing Agentic AI: from assisted to autonomous",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1k1VG5uNlhXQVd6QU8xTUc0dml6N2xUSTNqdkZRMFdqbjNXdWRWS0lucE5CdnFQejlsN0s2LUxZbmZjVU0tY0V6eTZZOXBZVkpVcEt4aHZTTzRaY1VyeENiZmtpMWVUOFQ2eGZaMWJTOHZkd29wWXVYaElBdTFhNUV4bU1kRlZWa2l1NW0tTDBzeGdHRDBNSm5abVJhSGZaVHF4UA"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVdQbU5pWEo4SWRVT1JGQzBadGxRck4wNmp1eVAzODdCYXhMZ0lnSTVVeHZVZ0UtYjFOWjJVR3NsWW1ud2lyWHN4Mkg4TjhiRjQtUXpEWmN4UF85WE9OTFIyU3JDaHFfUHlHMVNZRzlfSlBMOWhvNUN3NDI4cDdJa2lmYkcwLU9mVFgtS2syNHVUcm1XTUJDWnBzMnExQ2JjeWd2cU9uX1lWaVc5RVHSAbMBQVVfeXFMUHJtcG5RQktwZDN3M3NnSUltbkN5VmpjMGltb3dIclBhSTBiQnpmYWxXYUg4Wmo2bG5jcmlWX1dJSUg5OVlnbE41THFUbXdMWTA0TElJMVVpcFEybThwdjFqQjA2UlQ0YW1heGJ2Ri1MeF9qWDFQeHozUk5GR0J1UkgwcFYzMTRLaUJlZnpkMmRUZldvbTlKMXhCTDRtZjYtbEZPbklsdkNvd1dFbEpWblBfYm8"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Personal AI Agent Market Brief'+'blog'+'buyers and builders tracking personal AI agents'+'2026-07-06T16:14:51.294591+00:00') -> hero=editorial-split, typography=Cabinet Grotesk, components=[gapless-bento-grid, source-card-dossier, decision-matrix], GSAP=[image-scale-fade-scroll, hover-physics]. AIDA Check: Attention hero, Interest market proof, Desire workflow media, Action CTA band. Font Selection: Cabinet Grotesk. Hero Math Verification: clamp sizing targets 2\u20133 lines at common widths. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded init with fallbacks. Label Sweep & Button Check: black pill primary, white secondary verified.",
+  "generated_at": "2026-07-06T16:15:59.357448+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a long-form lead analysis, practical how-to explainer, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better. Make it read like a useful market briefing, not a list of summaries.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A practical, evidence-backed market briefing for buyers and builders tracking personal AI agents and computer-use assistants\u2014covering current momentum, evaluation criteria, and why Super\u2019s computer-use cache changes the economics of repeated workflows."
+}
